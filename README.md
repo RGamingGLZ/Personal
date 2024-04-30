@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @RGamingGLZ
-- 👀 I’m interested in gaming and game-jams
-- 🌱 I’m currently learning javascript
+HTML / CSS / Javascript
+Python
+
+Aspiring Cloud/Network Engineer
 
 <!---
 RGamingGLZ/RGamingGLZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
